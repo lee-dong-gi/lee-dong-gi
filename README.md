@@ -1,5 +1,5 @@
 ## 🔨 Tech Stack 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display:flex; flex-direction:column; align-items:flex-start; justify-content: center;">
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -11,23 +11,23 @@
         <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
         <img src="https://img.shields.io/badge/Mybatis-E04E39?style=for-the-badge&logo=Mybatis&logoColor=white">
         <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Testing</strong></p>
     <div>
         <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
         <img src="https://img.shields.io/badge/mockito-8D6748?style=for-the-badge&logo=mockito&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Messaging</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
         <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
         <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Monitoring</strong></p>
     <div>
         <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
         <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Database</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-    </div>
+    </div><br>
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -57,8 +57,8 @@
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    </div>
-</div>
+    </div><br>
+</div><br>
 
 ![lee-dong-gi GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-dong-gi&show_icons=true&theme=radical)
 
