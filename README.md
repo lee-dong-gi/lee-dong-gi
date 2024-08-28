@@ -7,7 +7,6 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
         <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
-        <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
         <img src="https://img.shields.io/badge/JPA-34E27A?style=for-the-badge&logo=JPA&logoColor=white"> 
         <img src="https://img.shields.io/badge/Mybatis-E04E39?style=for-the-badge&logo=Mybatis&logoColor=white">
         <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
