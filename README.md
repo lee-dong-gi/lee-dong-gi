@@ -31,10 +31,10 @@
     <h2><strong>Database</strong></h2>
     <div> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mariadbfoundation-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
+        <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
         <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Tibero-F80000?style=for-the-badge&logo=Tibero&logoColor=white">
+        <img src="https://img.shields.io/badge/tibero-F80000?style=for-the-badge&logo=Tibero&logoColor=white">
         <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
