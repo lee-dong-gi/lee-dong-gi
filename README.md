@@ -1,3 +1,10 @@
+## Skills I'm currently learning
+- Java -> Kotlin 변환
+- Spring Batch
+- Spring WebFlux
+![image](https://github.com/user-attachments/assets/1072939d-6bac-4d89-90d3-ef430637dd29)
+
+
 ## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start; justify-content: center;">
     <h2><strong>Backend</strong></h2>
