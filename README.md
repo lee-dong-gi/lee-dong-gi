@@ -1,9 +1,30 @@
+
+---
+
+## Tech Blog
+<a href="https://velog.io/@oksk4753/posts" target="_blank" style="font-size:1.3em">
+<img src="https://github.com/user-attachments/assets/bbf869de-6760-48d4-b3d0-75fafcf97ec6" width="25" height="25" alt="이미지 설명">
+
+</a>
+
+---
+
+## Email
+
+<a href="mailto:oksk4753@gmail.com" target="_blank" style="font-size:1.3em">
+<img src="https://github.com/user-attachments/assets/0fa51183-126b-4fb7-a62c-057596ef6e48" 
+width="65" height="25" alt="이미지 설명">
+</a>
+
+---
+
 ## Skills I'm currently learning
 - Java -> Kotlin 변환
 - Spring Batch
 - Spring WebFlux
-![image](https://github.com/user-attachments/assets/1072939d-6bac-4d89-90d3-ef430637dd29)
+  ![image](https://github.com/user-attachments/assets/1072939d-6bac-4d89-90d3-ef430637dd29)
 
+---
 
 ## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start; justify-content: center;">
@@ -66,5 +87,8 @@
     </div><br>
 </div><br>
 
+---
+
 ![lee-dong-gi GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-dong-gi&show_icons=true&theme=radical)
 
+---
