@@ -22,8 +22,7 @@ width="65" height="25" alt="이미지 설명">
 - Java -> Kotlin 변환
 - Spring Batch
 - Spring WebFlux
-  ![image](https://github.com/user-attachments/assets/202a8ea6-5f7c-4894-87e2-ea70f2208011)
-
+  ![image](https://github.com/user-attachments/assets/dbab004e-b0f5-4c55-9e24-cf120a2854ec)
 
 ---
 
