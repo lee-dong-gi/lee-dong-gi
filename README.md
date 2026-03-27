@@ -85,7 +85,3 @@ width="65" height="25" alt="이미지 설명">
 </div><br>
 
 ---
-
-![lee-dong-gi GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-dong-gi&show_icons=true&theme=radical)
-
----
